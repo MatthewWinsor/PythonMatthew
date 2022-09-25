@@ -1,5 +1,8 @@
-Hello worlddddd!
+"Hello worlddddd!
 thi is a test lolll
-testting 
+testting
 ededeidendendede
-edendede
+edendede"
+
+if __name == '__main__':
+  print("Hello, git world")
