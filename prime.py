@@ -1,3 +1,3 @@
-import prime_Factors
+import Prime_factors
 def generate_prime_factors():
-    prime_Factors.number_prime_or_not(6)
+    Prime_factors.number_prime_or_not(6)
